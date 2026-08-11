@@ -1,9 +1,9 @@
-# Hey, I'm bushmasterson!
+# hey, i'm bushmasterson!
 
-I'm a developer with a focus on privacy, open source, and building tools that respect the user.  
-Currently studying IT, cybersecurity, and AI and so on.
+i'm a developer with a focus on privacy, open source & building tools and apps.
+currently studying IT, cybersecurity, and AI and so on.
 
-## My stack
+## my stack
 
-- **C#**
-- **TypeScript**
+- **c#**
+- **typescript**
