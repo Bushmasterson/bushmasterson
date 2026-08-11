@@ -1,9 +1,18 @@
-# hey, i'm bushmasterson!
+# Hey, I'm @bushmasterson!
 
-i'm a developer with a focus on privacy, open source & building tools and apps.
-currently studying IT, cybersecurity, and AI and so on.
+Developer focused on privacy and open source.  
 
-## my stack
+I believe technology should be security, clean and fast.
+That's why I'm building an ecosystem of privacy-first tools.
 
-- **c#**
-- **typescript**
+## My stack
+
+- C#
+- TypeScript
+
+## Currently learning 
+- C++
+- C
+- Go
+- Cybersecurity
+- AI
