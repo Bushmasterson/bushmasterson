@@ -7,8 +7,8 @@ That's why I'm building an ecosystem of privacy-first tools.
 
 ## My stack
 
-- C#
-- TypeScript
+- C/C++
+- HTML/CSS/TS
 
 ## Currently learning 
 - C++
