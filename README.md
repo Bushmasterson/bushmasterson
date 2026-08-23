@@ -7,12 +7,10 @@ That's why I'm building an ecosystem of privacy-first tools.
 
 ## My stack
 
-- C/C++
+- C++
 - HTML/CSS/TS
 
 ## Currently learning 
 - C++
-- C
-- Go
 - Cybersecurity
 - AI
