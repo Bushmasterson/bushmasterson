@@ -12,5 +12,4 @@ That's why I'm building an ecosystem of privacy-first tools.
 
 ## Currently learning 
 - C++
-- Cybersecurity
-- AI
+- Android deverloping
