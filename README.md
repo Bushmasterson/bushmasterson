@@ -1,15 +1,18 @@
-# Hey, I'm @bushmasterson!
+# hey, i'm @bushmasterson
 
-Developer focused on privacy and open source.  
+developer focused on **privacy**, **open source** and clearness.
 
-I believe technology should be security, clean and fast.
-That's why I'm building an ecosystem of privacy-first tools.
+## stack
 
-## My stack
+- **c++** — core
+- **html / css / js/ts** — web
+- python — manim and simple tasks
 
-- C++
-- HTML/CSS/TS
+## currently learning
 
-## Currently learning 
-- C++
-- Android deverloping
+- c++ (deep)
+- android development
+
+## contact
+
+[protonmail](mailto:bushmasterson@proton.me)
